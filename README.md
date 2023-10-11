@@ -32,7 +32,7 @@
    Репозиторий: https://github.com/maxiair1/mesto  
    Демо: https://maxiair1.github.io/mesto/
 2. Портирование на React.js  
-   Репозиторий: https://github.com/YuryAmonsky/mesto-react
+   Репозиторий: https://github.com/maxiair1/mesto-react
 3. Добавление функционала регистрации и авторизации пользователя.  
    Репозиторий: https://github.com/maxiair1/react-mesto-auth 
 4. Создание собственного бекенда.   
